@@ -1,0 +1,52 @@
+@font-face {
+   font-family: 'Mont';
+   src: url('./../fonts/Mont/Mont-Heavy.eot');
+   src: url('./../fonts/Mont/Mont-Heavy.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mont/Mont-Heavy.woff2') format('woff2'),
+       url('./../fonts/Mont/Mont-Heavy.woff') format('woff'),
+       url('./../fonts/Mont/Mont-Heavy.ttf') format('truetype'),
+       url('./../fonts/Mont/Mont-Heavy.svg#Mont-Heavy') format('svg');
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mont';
+   src: url('./../fonts/Mont/Mont-SemiBold.eot');
+   src: url('./../fonts/Mont/Mont-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mont/Mont-SemiBold.woff2') format('woff2'),
+       url('./../fonts/Mont/Mont-SemiBold.woff') format('woff'),
+       url('./../fonts/Mont/Mont-SemiBold.ttf') format('truetype'),
+       url('./../fonts/Mont/Mont-SemiBold.svg#Mont-SemiBold') format('svg');
+   font-weight: 600;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mont';
+   src: url('./../fonts/Mont/Mont-Regular.eot');
+   src: url('./../fonts/Mont/Mont-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mont/Mont-Regular.woff2') format('woff2'),
+       url('./../fonts/Mont/Mont-Regular.woff') format('woff'),
+       url('./../fonts/Mont/Mont-Regular.ttf') format('truetype'),
+       url('./../fonts/Mont/Mont-Regular.svg#Mont-Regular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Mont';
+   src: url('./../fonts/Mont/Mont-Bold.eot');
+   src: url('./../fonts/Mont/Mont-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/Mont/Mont-Bold.woff2') format('woff2'),
+       url('./../fonts/Mont/Mont-Bold.woff') format('woff'),
+       url('./../fonts/Mont/Mont-Bold.ttf') format('truetype'),
+       url('./../fonts/Mont/Mont-Bold.svg#Mont-Bold') format('svg');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
